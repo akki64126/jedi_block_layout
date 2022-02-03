@@ -1,0 +1,32 @@
+.container1 {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    text-align: center;
+    grid-gap: 10px;
+}
+.container2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+    grid-gap: 10px;
+
+
+}
+.block1 {
+    background-color:brown;color:white;padding:20px;border: 5px solid red; border-radius: 25px; block-size: 100px; text-align: center;
+}
+.block2 {
+    background-color:orange;color:white;padding:180px; border: 5px solid red; border-radius: 25px; margin: 5px;
+}
+.block3 {
+    background-color:red;color:white;padding:20px;border: 5px solid red; border-radius: 25px; block-size: 110px; margin: 5px;
+}
+.block4 {
+    background-color:blue;color:white;padding:20px;border: 5px solid red; border-radius: 25px; block-size: 110px; margin: 5px;
+}
+.block5 {
+    background-color:green;color:white;padding:20px;border: 5px solid red; border-radius: 25px; block-size: 110px; margin: 5px;
+}
+.block6 {
+    background-color:purple;color:white;padding:20px;border: 5px solid red; border-radius: 25px; block-size: 110px; margin: 5px;
+}
